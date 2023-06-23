@@ -2,8 +2,7 @@
 
 I only made this README to force me to contribute more 🤷
 
-
-![larsmunkholm](https://github-readme-stats.vercel.app/api?username=larsmunkholm&show_icons=true&locale=en)
+TS ♥️
 
 ![larsmunkholm](https://github-readme-streak-stats.herokuapp.com/?user=larsmunkholm)
 
