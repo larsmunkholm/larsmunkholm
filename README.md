@@ -4,12 +4,6 @@ I only made this README to force me to contribute more 🤷
 
 TS ♥️
 
-![larsmunkholm](https://github-readme-streak-stats.herokuapp.com/?user=larsmunkholm)
-
----
-
-![](https://komarev.com/ghpvc/?username=larsmunkholm&label=Profile%20views&color=0e75b6&style=flat)
-
 <!--
 **larsmunkholm/larsmunkholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
