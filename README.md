@@ -1,8 +1,6 @@
-#### 🕵️
+![larsmunkholm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=larsmunkholm&theme=transparent&hide_border=true)
 
-I only made this README to force me to contribute more 🤷
-
-TS ♥️
+![larsmunkholm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larsmunkholm&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **larsmunkholm/larsmunkholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
